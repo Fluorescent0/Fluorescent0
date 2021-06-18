@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Fluorescent0
+- 👀 I’m interested in Small basic [lit dev extention], cmd/bat files, and vbs.
+- 🌱 I’m currently learning python
